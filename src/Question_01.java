@@ -5,6 +5,7 @@ public class Question_01 {
 		
 		System.out.println("gitstart");
 		System.out.println("Premier Chargement");
+		system.out.println("Degisiklik yaptim");
 
 	}
 
